@@ -72,7 +72,7 @@
     <ManifestKeyFile>calculator_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
-    <SignManifests>true</SignManifests>
+    <SignManifests>false</SignManifests>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="control1, Version=1.0.3462.36688, Culture=neutral, processorArchitecture=MSIL">
